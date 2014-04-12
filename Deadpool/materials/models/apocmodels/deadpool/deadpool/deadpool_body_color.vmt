@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/apocmodels/Deadpool/Deadpool/Deadpool_Body_Color"
+	"$bumpmap"				"models/apocmodels/Deadpool/Deadpool/Deadpool_Body_Norm"
+
+	"$phong"				"1"
+	"$phongboost"			"1.5"
+	"$phongexponent"		"15"
+	"$phongfresnelranges"	"[0.1 0.75 4]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"1"
+}
